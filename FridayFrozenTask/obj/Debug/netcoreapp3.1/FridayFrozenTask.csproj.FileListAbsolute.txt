@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\FridayFrozenTask\FridayFrozenTask\obj\Debug\netcoreapp3.1\FridayFrozenTask.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\FridayFrozenTask\FridayFrozenTask\obj\Debug\netcoreapp3.1\FridayFrozenTask.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\FridayFrozenTask\FridayFrozenTask\obj\Debug\netcoreapp3.1\FridayFrozenTask.AssemblyInfo.cs
+C:\Users\opilane\source\repos\FridayFrozenTask\FridayFrozenTask\obj\Debug\netcoreapp3.1\FridayFrozenTask.csproj.CoreCompileInputs.cache
